@@ -16,16 +16,22 @@
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-    pass # reemplaza pass con tu código
+    suma = a + b
+    return suma
+
+resultado = sumar(num1, num2)
+print("La suma es:", resultado)
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
-    pass
+   for i in range(1, 11):
+        print(i)
 
 
 # 5. Usar un bucle para imprimir cada número
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
-    # Escribe el código aquí
+     for number in numbers:
+        print(number)
