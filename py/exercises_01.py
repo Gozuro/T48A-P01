@@ -10,8 +10,7 @@
 
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
-# Escribe el código aquí
-
+matricula=171877
 
 
 # 2. Crear una función que sume dos números
@@ -19,8 +18,6 @@ def sumar(a, b):
     suma = a + b
     return suma
 
-resultado = sumar(num1, num2)
-print("La suma es:", resultado)
 
 
 # 3. Usar un bucle for para imprimir los números del 1 al 10
