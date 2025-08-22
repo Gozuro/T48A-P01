@@ -7,7 +7,7 @@
 # caracteres del Español.
 # Escribe el código aquí
 
-
+nombre='Gonzalez Rodriguez Jose de Jesus'
 
 # 1.1 Declara una variable matricula y asigna tu número de matrícula como entero
 matricula=171877
